@@ -719,6 +719,7 @@ html {
   background-color: transparent;
   color: white;
   font-size: 15px;
+  cursor: pointer;
 }
 .final-footer .middle .social-icons {
   display: flex;
